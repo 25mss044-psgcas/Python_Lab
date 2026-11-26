@@ -142,7 +142,7 @@ See the [LICENSE](LICENSE) file for the complete license terms.
 
 ## 👨‍💻 Author
 
-**Author:** [Your Name / GitHub Username]
+**Author:** [SANJAY M / 25MSS044]
 
 **Repository:** Python Programming Lab Experiments
 
